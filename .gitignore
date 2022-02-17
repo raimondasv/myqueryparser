@@ -10,6 +10,9 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+antlr-4.9.3-complete.jar
+MySqlLexer.g4
+MySqlParser.g4
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
